@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 课程中汽车数据集链接：https://pan.baidu.com/s/1xKHex8RavIdDOxrbtM-asQ?pwd=klmq 
 
 ## DDPM: Denoising Diffusion Probabilistic Models模型在pytorch当中的实现
@@ -63,3 +64,6 @@ _defaults = {
 1. 训练前将期望生成的图片文件放在datasets文件夹下（参考花的数据集）。  
 2. 运行根目录下面的txt_annotation.py，生成train_lines.txt，保证train_lines.txt内部是有文件路径内容的。  
 3. 运行train.py文件进行训练，训练过程中生成的图片可查看results/train_out文件夹下的图片。  
+=======
+# my_ddpm
+>>>>>>> 79cf5e64b2eff148e28b34c700b75308768588e9
